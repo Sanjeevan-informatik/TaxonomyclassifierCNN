@@ -22,7 +22,7 @@ Taxonomic assignment plays a key role in classifying the species in Biodiversity
 8. Edith the filepath_test by adding your own taxonomic file on predition_on_data.py
 9. predict your taxonomic data class by run predition_on_data.py the using `python predition_on_data.py` command on the command line.
 
-
+thank you for reading
 ## References
 
 1. Advancements in Image Classification using Convolutional Neural Network (https://arxiv.org/abs/1905.03288)
